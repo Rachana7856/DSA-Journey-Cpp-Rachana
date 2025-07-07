@@ -9,3 +9,4 @@ int main(){
 
     return 0;
 }
+// Updated to fix commit message for Day 2
